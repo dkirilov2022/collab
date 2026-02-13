@@ -7,7 +7,13 @@ namespace ListManipulation
     class Program
     {
         static void Main(string[] args)
+
+
         {
+
+            Console.WriteLine("lemon has been here");
+
+
             List<int> nums = Console.ReadLine().Split().Select(int.Parse).ToList();
             string[] cmd = Console.ReadLine().Split().ToArray();
             //cw .......
@@ -51,5 +57,8 @@ namespace ListManipulation
                     break;
             }
         }
+
+
+        
     }
 }
