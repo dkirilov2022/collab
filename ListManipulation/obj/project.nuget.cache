@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hi0Z0UVF3hGRde1hZnoTIcsDR1SmDqFpfeFw8b4d9eRk6y4aXqkVAPJZucFWEoY30So+9NAzjH/uK8C3u4NWeQ==",
+  "dgSpecHash": "3vAyLmPrteY=",
   "success": true,
-  "projectFilePath": "D:\\2022-2023 godina\\11b RS\\Git-GitHub\\ManipulationApp\\ListManipulation\\ListManipulation\\ListManipulation.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\GITHUB\\collab\\ListManipulation\\ListManipulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
